@@ -1,0 +1,920 @@
+2023-09-06 14:16:27 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-06 14:16:29 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-06 14:16:29 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-06 14:16:42 INFO  Tcarts_Food_PreOrder:62 - Sales-ReceiptList
+2023-09-06 14:16:57 INFO  Tcarts_Food_PreOrder:76 - Sales-OrderList
+2023-09-06 14:17:13 INFO  Tcarts_Food_PreOrder:89 - Sales-RefundHistories
+2023-09-06 14:17:32 INFO  Tcarts_Food_PreOrder:108 - Settings-Canteen
+2023-09-06 14:17:38 INFO  Tcarts_Food_PreOrder:115 - Add New Canteen
+2023-09-06 14:17:54 INFO  Tcarts_Food_PreOrder:132 - Search Canteen-Validate
+2023-09-06 14:18:01 INFO  Tcarts_Food_PreOrder:143 - Edit Canteen
+2023-09-06 14:18:14 INFO  Tcarts_Food_PreOrder:159 - Overschedule
+2023-09-06 14:18:55 INFO  Tcarts_Food_PreOrder:207 - View & Delete Canteen
+2023-09-06 14:19:09 INFO  Tcarts_Food_PreOrder:227 - Reports
+2023-09-06 14:19:12 INFO  Tcarts_Food_PreOrder:232 - Gst Report
+2023-09-06 14:19:15 INFO  Tcarts_Food_PreOrder:237 - Stock Report-Particular Dish
+2023-09-06 14:19:50 INFO  Tcarts_Food_PreOrder:272 - Stock Report-All Dishes
+2023-09-06 14:20:10 INFO  Tcarts_Food_PreOrder:295 - App Feedback
+2023-09-06 14:20:13 INFO  Tcarts_Food_PreOrder:300 - Tester
+2023-09-06 14:20:25 INFO  Tcarts_Food_PreOrder:309 - Developer
+2023-09-06 14:20:38 INFO  Tcarts_Food_PreOrder:323 - Logout
+2023-09-06 14:58:56 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-06 14:58:58 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-06 14:58:58 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-06 14:59:11 INFO  Tcarts_Food_PreOrder:62 - Sales-ReceiptList
+2023-09-06 14:59:27 INFO  Tcarts_Food_PreOrder:76 - Sales-OrderList
+2023-09-06 14:59:43 INFO  Tcarts_Food_PreOrder:89 - Sales-RefundHistories
+2023-09-06 15:00:02 INFO  Tcarts_Food_PreOrder:108 - Settings-Canteen
+2023-09-06 15:00:08 INFO  Tcarts_Food_PreOrder:115 - Add New Canteen
+2023-09-06 15:00:24 INFO  Tcarts_Food_PreOrder:132 - Search Canteen-Validate
+2023-09-06 15:00:30 INFO  Tcarts_Food_PreOrder:143 - Edit Canteen
+2023-09-06 15:00:43 INFO  Tcarts_Food_PreOrder:159 - Overschedule
+2023-09-06 15:01:25 INFO  Tcarts_Food_PreOrder:207 - View & Delete Canteen
+2023-09-06 15:01:38 INFO  Tcarts_Food_PreOrder:227 - Reports
+2023-09-06 15:01:41 INFO  Tcarts_Food_PreOrder:232 - Gst Report
+2023-09-06 15:01:44 INFO  Tcarts_Food_PreOrder:237 - Stock Report-Particular Dish
+2023-09-06 15:02:19 INFO  Tcarts_Food_PreOrder:272 - Stock Report-All Dishes
+2023-09-06 15:02:39 INFO  Tcarts_Food_PreOrder:295 - App Feedback
+2023-09-06 15:02:42 INFO  Tcarts_Food_PreOrder:300 - Tester
+2023-09-06 15:02:55 INFO  Tcarts_Food_PreOrder:309 - Developer
+2023-09-06 15:03:08 INFO  Tcarts_Food_PreOrder:323 - Logout
+2023-09-06 15:04:36 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-06 15:04:37 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-06 15:04:37 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-06 15:04:44 INFO  Tcarts_Food_PreOrder:62 - Sales-ReceiptList
+2023-09-06 15:04:53 INFO  Tcarts_Food_PreOrder:76 - Sales-OrderList
+2023-09-06 15:05:01 INFO  Tcarts_Food_PreOrder:89 - Sales-RefundHistories
+2023-09-06 15:05:11 INFO  Tcarts_Food_PreOrder:108 - Settings-Canteen
+2023-09-06 15:05:14 INFO  Tcarts_Food_PreOrder:115 - Add New Canteen
+2023-09-06 15:05:23 INFO  Tcarts_Food_PreOrder:132 - Search Canteen-Validate
+2023-09-06 15:05:26 INFO  Tcarts_Food_PreOrder:143 - Edit Canteen
+2023-09-06 15:05:33 INFO  Tcarts_Food_PreOrder:159 - Overschedule
+2023-09-06 15:05:57 INFO  Tcarts_Food_PreOrder:207 - View & Delete Canteen
+2023-09-06 15:06:05 INFO  Tcarts_Food_PreOrder:227 - Reports
+2023-09-06 15:06:06 INFO  Tcarts_Food_PreOrder:232 - Gst Report
+2023-09-06 15:06:08 INFO  Tcarts_Food_PreOrder:237 - Stock Report-Particular Dish
+2023-09-06 15:06:26 INFO  Tcarts_Food_PreOrder:272 - Stock Report-All Dishes
+2023-09-06 15:06:37 INFO  Tcarts_Food_PreOrder:295 - App Feedback
+2023-09-06 15:06:39 INFO  Tcarts_Food_PreOrder:300 - Tester
+2023-09-06 15:06:45 INFO  Tcarts_Food_PreOrder:309 - Developer
+2023-09-06 15:06:52 INFO  Tcarts_Food_PreOrder:323 - Logout
+2023-09-06 15:10:52 INFO  Demo:24 - Browser Launch
+2023-09-06 15:10:54 INFO  Demo:32 - Login
+2023-09-06 15:10:54 INFO  Demo:46 - Users-Student
+2023-09-06 15:25:02 INFO  Dish:25 - Browser Launch
+2023-09-06 15:25:04 INFO  Dish:33 - Login
+2023-09-06 15:25:04 INFO  Dish:47 - Settings-Dishes
+2023-09-06 15:25:07 INFO  Dish:54 - Add New Dish
+2023-09-06 15:29:08 INFO  Dish:25 - Browser Launch
+2023-09-06 15:29:09 INFO  Dish:33 - Login
+2023-09-06 15:29:10 INFO  Dish:47 - Settings-Dishes
+2023-09-06 15:29:13 INFO  Dish:54 - Add New Dish
+2023-09-06 15:57:00 INFO  Dish:24 - Browser Launch
+2023-09-06 15:57:01 INFO  Dish:32 - Login
+2023-09-06 15:57:02 INFO  Dish:46 - Settings-Dishes
+2023-09-06 15:57:05 INFO  Dish:53 - Add New Dish
+2023-09-06 15:58:24 INFO  Dish:24 - Browser Launch
+2023-09-06 15:58:26 INFO  Dish:32 - Login
+2023-09-06 15:58:26 INFO  Dish:46 - Settings-Dishes
+2023-09-06 15:58:29 INFO  Dish:53 - Add New Dish
+2023-09-06 15:59:18 INFO  Dish:24 - Browser Launch
+2023-09-06 15:59:19 INFO  Dish:32 - Login
+2023-09-06 15:59:20 INFO  Dish:46 - Settings-Dishes
+2023-09-06 15:59:23 INFO  Dish:53 - Add New Dish
+2023-09-06 15:59:49 INFO  Dish:24 - Browser Launch
+2023-09-06 15:59:51 INFO  Dish:32 - Login
+2023-09-06 15:59:51 INFO  Dish:46 - Settings-Dishes
+2023-09-06 15:59:54 INFO  Dish:53 - Add New Dish
+2023-09-06 16:00:11 INFO  Dish:24 - Browser Launch
+2023-09-06 16:00:12 INFO  Dish:32 - Login
+2023-09-06 16:00:13 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:00:16 INFO  Dish:53 - Add New Dish
+2023-09-06 16:02:32 INFO  Dish:24 - Browser Launch
+2023-09-06 16:02:33 INFO  Dish:32 - Login
+2023-09-06 16:02:33 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:02:37 INFO  Dish:53 - Add New Dish
+2023-09-06 16:04:23 INFO  Dish:24 - Browser Launch
+2023-09-06 16:04:24 INFO  Dish:32 - Login
+2023-09-06 16:04:24 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:04:28 INFO  Dish:53 - Add New Dish
+2023-09-06 16:06:22 INFO  Dish:24 - Browser Launch
+2023-09-06 16:06:24 INFO  Dish:32 - Login
+2023-09-06 16:06:24 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:06:28 INFO  Dish:53 - Add New Dish
+2023-09-06 16:10:03 INFO  Dish:24 - Browser Launch
+2023-09-06 16:10:05 INFO  Dish:32 - Login
+2023-09-06 16:10:05 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:10:08 INFO  Dish:53 - Add New Dish
+2023-09-06 16:11:15 INFO  Dish:24 - Browser Launch
+2023-09-06 16:11:16 INFO  Dish:32 - Login
+2023-09-06 16:11:16 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:11:20 INFO  Dish:53 - Add New Dish
+2023-09-06 16:12:24 INFO  Dish:24 - Browser Launch
+2023-09-06 16:12:25 INFO  Dish:32 - Login
+2023-09-06 16:12:25 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:12:29 INFO  Dish:53 - Add New Dish
+2023-09-06 16:28:35 INFO  Dish:24 - Browser Launch
+2023-09-06 16:28:37 INFO  Dish:32 - Login
+2023-09-06 16:28:37 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:28:40 INFO  Dish:53 - Add New Dish
+2023-09-06 16:29:30 INFO  Dish:24 - Browser Launch
+2023-09-06 16:29:32 INFO  Dish:32 - Login
+2023-09-06 16:29:32 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:29:35 INFO  Dish:53 - Add New Dish
+2023-09-06 16:31:16 INFO  Dish:24 - Browser Launch
+2023-09-06 16:31:17 INFO  Dish:32 - Login
+2023-09-06 16:31:17 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:31:21 INFO  Dish:53 - Add New Dish
+2023-09-06 16:32:27 INFO  Dish:24 - Browser Launch
+2023-09-06 16:32:28 INFO  Dish:32 - Login
+2023-09-06 16:32:28 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:32:32 INFO  Dish:53 - Add New Dish
+2023-09-06 16:36:10 INFO  Dish:24 - Browser Launch
+2023-09-06 16:36:11 INFO  Dish:32 - Login
+2023-09-06 16:36:11 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:36:15 INFO  Dish:53 - Add New Dish
+2023-09-06 16:37:57 INFO  Dish:24 - Browser Launch
+2023-09-06 16:37:58 INFO  Dish:32 - Login
+2023-09-06 16:37:59 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:38:02 INFO  Dish:53 - Add New Dish
+2023-09-06 16:40:21 INFO  Dish:24 - Browser Launch
+2023-09-06 16:40:22 INFO  Dish:32 - Login
+2023-09-06 16:40:23 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:40:26 INFO  Dish:53 - Add New Dish
+2023-09-06 16:41:43 INFO  Dish:24 - Browser Launch
+2023-09-06 16:41:44 INFO  Dish:32 - Login
+2023-09-06 16:41:44 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:41:48 INFO  Dish:53 - Add New Dish
+2023-09-06 16:43:49 INFO  Dish:24 - Browser Launch
+2023-09-06 16:43:51 INFO  Dish:32 - Login
+2023-09-06 16:43:51 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:43:54 INFO  Dish:53 - Add New Dish
+2023-09-06 16:47:14 INFO  Dish:24 - Browser Launch
+2023-09-06 16:47:15 INFO  Dish:32 - Login
+2023-09-06 16:47:16 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:47:19 INFO  Dish:53 - Add New Dish
+2023-09-06 16:48:35 INFO  Dish:24 - Browser Launch
+2023-09-06 16:48:36 INFO  Dish:32 - Login
+2023-09-06 16:48:36 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:48:39 INFO  Dish:53 - Add New Dish
+2023-09-06 16:50:27 INFO  Dish:24 - Browser Launch
+2023-09-06 16:50:28 INFO  Dish:32 - Login
+2023-09-06 16:50:29 INFO  Dish:46 - Settings-Dishes
+2023-09-06 16:50:32 INFO  Dish:53 - Add New Dish
+2023-09-06 17:16:39 INFO  Demo:24 - Browser Launch
+2023-09-06 17:16:40 INFO  Demo:32 - Login
+2023-09-06 17:16:40 INFO  Demo:73 - Settings-Holidays
+2023-09-06 17:39:55 INFO  Demo:24 - Browser Launch
+2023-09-06 17:39:56 INFO  Demo:32 - Login
+2023-09-06 17:39:57 INFO  Demo:73 - Settings-Holidays
+2023-09-06 17:42:26 INFO  Demo:27 - Browser Launch
+2023-09-06 17:42:27 INFO  Demo:35 - Login
+2023-09-06 17:42:28 INFO  Demo:76 - Settings-Holidays
+2023-09-06 18:54:26 INFO  Demo:27 - Browser Launch
+2023-09-06 18:54:28 INFO  Demo:35 - Login
+2023-09-06 18:57:22 INFO  Demo:27 - Browser Launch
+2023-09-06 18:57:23 INFO  Demo:35 - Login
+2023-09-06 18:58:53 INFO  Demo:27 - Browser Launch
+2023-09-06 18:58:54 INFO  Demo:35 - Login
+2023-09-06 18:59:31 INFO  Demo:27 - Browser Launch
+2023-09-06 19:00:17 INFO  Demo:35 - Login
+2023-09-06 19:01:11 INFO  Demo:27 - Browser Launch
+2023-09-06 19:01:44 INFO  Demo:27 - Browser Launch
+2023-09-06 19:01:48 INFO  Demo:35 - Login
+2023-09-06 19:02:54 INFO  Demo:27 - Browser Launch
+2023-09-06 19:02:56 INFO  Demo:35 - Login
+2023-09-06 19:03:18 INFO  Demo:27 - Browser Launch
+2023-09-06 19:03:22 INFO  Demo:35 - Login
+2023-09-06 19:06:12 INFO  Demo:27 - Browser Launch
+2023-09-06 19:06:14 INFO  Demo:35 - Login
+2023-09-07 09:53:30 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 09:53:32 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 09:53:32 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 09:53:39 INFO  Tcarts_Food_PreOrder:65 - Sales-ReceiptList
+2023-09-07 09:53:47 INFO  Tcarts_Food_PreOrder:79 - Sales-OrderList
+2023-09-07 09:53:56 INFO  Tcarts_Food_PreOrder:92 - Sales-RefundHistories
+2023-09-07 09:54:06 INFO  Tcarts_Food_PreOrder:111 - Settings-Canteen
+2023-09-07 09:54:09 INFO  Tcarts_Food_PreOrder:118 - Add New Canteen
+2023-09-07 09:54:17 INFO  Tcarts_Food_PreOrder:135 - Search Canteen-Validate
+2023-09-07 09:54:21 INFO  Tcarts_Food_PreOrder:146 - Edit Canteen
+2023-09-07 09:54:28 INFO  Tcarts_Food_PreOrder:162 - Overschedule
+2023-09-07 09:54:51 INFO  Tcarts_Food_PreOrder:210 - View & Delete Canteen
+2023-09-07 09:54:59 INFO  Tcarts_Food_PreOrder:230 - Settings-Dishes
+2023-09-07 09:55:02 INFO  Tcarts_Food_PreOrder:237 - Add New Dish
+2023-09-07 09:55:14 INFO  Tcarts_Food_PreOrder:270 - Funcionality - Next & Previous Page
+2023-09-07 09:55:18 INFO  Tcarts_Food_PreOrder:279 - View & Delete Dish
+2023-09-07 09:55:26 INFO  Tcarts_Food_PreOrder:296 - Edit Dish
+2023-09-07 09:55:34 INFO  Tcarts_Food_PreOrder:316 - Reports
+2023-09-07 09:55:36 INFO  Tcarts_Food_PreOrder:321 - Gst Report
+2023-09-07 09:55:38 INFO  Tcarts_Food_PreOrder:326 - Stock Report-Particular Dish
+2023-09-07 09:55:56 INFO  Tcarts_Food_PreOrder:361 - Stock Report-All Dishes
+2023-09-07 09:56:07 INFO  Tcarts_Food_PreOrder:384 - App Feedback
+2023-09-07 09:56:09 INFO  Tcarts_Food_PreOrder:389 - Tester
+2023-09-07 09:56:15 INFO  Tcarts_Food_PreOrder:398 - Developer
+2023-09-07 09:56:22 INFO  Tcarts_Food_PreOrder:412 - Logout
+2023-09-07 09:56:35 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 09:56:37 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 09:56:37 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 09:56:44 INFO  Tcarts_Food_PreOrder:65 - Sales-ReceiptList
+2023-09-07 09:56:52 INFO  Tcarts_Food_PreOrder:79 - Sales-OrderList
+2023-09-07 09:57:00 INFO  Tcarts_Food_PreOrder:92 - Sales-RefundHistories
+2023-09-07 09:57:04 INFO  Tcarts_Food_PreOrder:111 - Settings-Canteen
+2023-09-07 09:57:04 INFO  Tcarts_Food_PreOrder:230 - Settings-Dishes
+2023-09-07 09:57:04 INFO  Tcarts_Food_PreOrder:316 - Reports
+2023-09-07 09:57:04 INFO  Tcarts_Food_PreOrder:384 - App Feedback
+2023-09-07 09:57:04 INFO  Tcarts_Food_PreOrder:412 - Logout
+2023-09-07 09:57:30 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 09:57:31 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 09:57:32 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 09:57:38 INFO  Tcarts_Food_PreOrder:66 - Sales-ReceiptList
+2023-09-07 09:57:47 INFO  Tcarts_Food_PreOrder:80 - Sales-OrderList
+2023-09-07 09:57:55 INFO  Tcarts_Food_PreOrder:93 - Sales-RefundHistories
+2023-09-07 09:58:05 INFO  Tcarts_Food_PreOrder:112 - Settings-Canteen
+2023-09-07 09:58:08 INFO  Tcarts_Food_PreOrder:119 - Add New Canteen
+2023-09-07 09:58:17 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 09:58:17 INFO  Tcarts_Food_PreOrder:136 - Search Canteen-Validate
+2023-09-07 09:58:18 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 09:58:18 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 09:58:20 INFO  Tcarts_Food_PreOrder:147 - Edit Canteen
+2023-09-07 09:58:22 INFO  Tcarts_Food_PreOrder:66 - Sales-ReceiptList
+2023-09-07 09:58:28 INFO  Tcarts_Food_PreOrder:163 - Overschedule
+2023-09-07 09:58:31 INFO  Tcarts_Food_PreOrder:80 - Sales-OrderList
+2023-09-07 09:58:39 INFO  Tcarts_Food_PreOrder:93 - Sales-RefundHistories
+2023-09-07 09:58:49 INFO  Tcarts_Food_PreOrder:112 - Settings-Canteen
+2023-09-07 09:58:51 INFO  Tcarts_Food_PreOrder:211 - View & Delete Canteen
+2023-09-07 09:58:52 INFO  Tcarts_Food_PreOrder:119 - Add New Canteen
+2023-09-07 09:58:58 INFO  Tcarts_Food_PreOrder:231 - Settings-Dishes
+2023-09-07 09:59:01 INFO  Tcarts_Food_PreOrder:136 - Search Canteen-Validate
+2023-09-07 09:59:02 INFO  Tcarts_Food_PreOrder:238 - Add New Dish
+2023-09-07 09:59:04 INFO  Tcarts_Food_PreOrder:147 - Edit Canteen
+2023-09-07 09:59:11 INFO  Tcarts_Food_PreOrder:163 - Overschedule
+2023-09-07 09:59:13 INFO  Tcarts_Food_PreOrder:271 - Funcionality - Next & Previous Page
+2023-09-07 09:59:18 INFO  Tcarts_Food_PreOrder:280 - View & Delete Dish
+2023-09-07 09:59:25 INFO  Tcarts_Food_PreOrder:297 - Edit Dish
+2023-09-07 09:59:35 INFO  Tcarts_Food_PreOrder:211 - View & Delete Canteen
+2023-09-07 09:59:42 INFO  Tcarts_Food_PreOrder:231 - Settings-Dishes
+2023-09-07 09:59:45 INFO  Tcarts_Food_PreOrder:238 - Add New Dish
+2023-09-07 09:59:57 INFO  Tcarts_Food_PreOrder:271 - Funcionality - Next & Previous Page
+2023-09-07 10:00:02 INFO  Tcarts_Food_PreOrder:280 - View & Delete Dish
+2023-09-07 10:00:03 INFO  Tcarts_Food_PreOrder:317 - Reports
+2023-09-07 10:00:05 INFO  Tcarts_Food_PreOrder:322 - Gst Report
+2023-09-07 10:00:07 INFO  Tcarts_Food_PreOrder:327 - Stock Report-Particular Dish
+2023-09-07 10:00:09 INFO  Tcarts_Food_PreOrder:297 - Edit Dish
+2023-09-07 10:00:25 INFO  Tcarts_Food_PreOrder:362 - Stock Report-All Dishes
+2023-09-07 10:00:36 INFO  Tcarts_Food_PreOrder:385 - App Feedback
+2023-09-07 10:00:38 INFO  Tcarts_Food_PreOrder:390 - Tester
+2023-09-07 10:00:44 INFO  Tcarts_Food_PreOrder:399 - Developer
+2023-09-07 10:00:47 INFO  Tcarts_Food_PreOrder:317 - Reports
+2023-09-07 10:00:49 INFO  Tcarts_Food_PreOrder:322 - Gst Report
+2023-09-07 10:00:50 INFO  Tcarts_Food_PreOrder:327 - Stock Report-Particular Dish
+2023-09-07 10:00:51 INFO  Tcarts_Food_PreOrder:413 - Logout
+2023-09-07 10:01:09 INFO  Tcarts_Food_PreOrder:362 - Stock Report-All Dishes
+2023-09-07 10:01:20 INFO  Tcarts_Food_PreOrder:385 - App Feedback
+2023-09-07 10:01:22 INFO  Tcarts_Food_PreOrder:390 - Tester
+2023-09-07 10:01:28 INFO  Tcarts_Food_PreOrder:399 - Developer
+2023-09-07 10:01:35 INFO  Tcarts_Food_PreOrder:413 - Logout
+2023-09-07 10:01:54 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 10:01:56 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 10:01:56 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 10:02:01 INFO  Tcarts_Food_PreOrder:69 - Sales-ReceiptList
+2023-09-07 10:02:10 INFO  Tcarts_Food_PreOrder:83 - Sales-OrderList
+2023-09-07 10:02:18 INFO  Tcarts_Food_PreOrder:96 - Sales-RefundHistories
+2023-09-07 10:02:28 INFO  Tcarts_Food_PreOrder:115 - Settings-Canteen
+2023-09-07 10:02:31 INFO  Tcarts_Food_PreOrder:122 - Add New Canteen
+2023-09-07 10:02:40 INFO  Tcarts_Food_PreOrder:139 - Search Canteen-Validate
+2023-09-07 10:02:43 INFO  Tcarts_Food_PreOrder:150 - Edit Canteen
+2023-09-07 10:02:50 INFO  Tcarts_Food_PreOrder:166 - Overschedule
+2023-09-07 10:03:14 INFO  Tcarts_Food_PreOrder:214 - View & Delete Canteen
+2023-09-07 10:03:21 INFO  Tcarts_Food_PreOrder:234 - Settings-Dishes
+2023-09-07 10:03:24 INFO  Tcarts_Food_PreOrder:241 - Add New Dish
+2023-09-07 10:03:36 INFO  Tcarts_Food_PreOrder:274 - Funcionality - Next & Previous Page
+2023-09-07 10:03:41 INFO  Tcarts_Food_PreOrder:283 - View & Delete Dish
+2023-09-07 10:03:48 INFO  Tcarts_Food_PreOrder:300 - Edit Dish
+2023-09-07 10:04:26 INFO  Tcarts_Food_PreOrder:320 - Reports
+2023-09-07 10:04:28 INFO  Tcarts_Food_PreOrder:325 - Gst Report
+2023-09-07 10:04:29 INFO  Tcarts_Food_PreOrder:330 - Stock Report-Particular Dish
+2023-09-07 10:04:48 INFO  Tcarts_Food_PreOrder:365 - Stock Report-All Dishes
+2023-09-07 10:04:59 INFO  Tcarts_Food_PreOrder:388 - App Feedback
+2023-09-07 10:05:00 INFO  Tcarts_Food_PreOrder:393 - Tester
+2023-09-07 10:05:07 INFO  Tcarts_Food_PreOrder:402 - Developer
+2023-09-07 10:05:14 INFO  Tcarts_Food_PreOrder:416 - Logout
+2023-09-07 10:05:53 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 10:05:54 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 10:05:55 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 10:06:06 INFO  Tcarts_Food_PreOrder:70 - Sales-ReceiptList
+2023-09-07 10:06:14 INFO  Tcarts_Food_PreOrder:84 - Sales-OrderList
+2023-09-07 10:06:22 INFO  Tcarts_Food_PreOrder:97 - Sales-RefundHistories
+2023-09-07 10:06:32 INFO  Tcarts_Food_PreOrder:116 - Settings-Canteen
+2023-09-07 10:06:36 INFO  Tcarts_Food_PreOrder:123 - Add New Canteen
+2023-09-07 10:06:44 INFO  Tcarts_Food_PreOrder:140 - Search Canteen-Validate
+2023-09-07 10:06:47 INFO  Tcarts_Food_PreOrder:151 - Edit Canteen
+2023-09-07 10:06:54 INFO  Tcarts_Food_PreOrder:167 - Overschedule
+2023-09-07 10:07:18 INFO  Tcarts_Food_PreOrder:215 - View & Delete Canteen
+2023-09-07 10:07:26 INFO  Tcarts_Food_PreOrder:235 - Settings-Dishes
+2023-09-07 10:07:29 INFO  Tcarts_Food_PreOrder:242 - Add New Dish
+2023-09-07 10:07:40 INFO  Tcarts_Food_PreOrder:275 - Funcionality - Next & Previous Page
+2023-09-07 10:07:45 INFO  Tcarts_Food_PreOrder:284 - View & Delete Dish
+2023-09-07 10:07:52 INFO  Tcarts_Food_PreOrder:301 - Edit Dish
+2023-09-07 10:08:01 INFO  Tcarts_Food_PreOrder:321 - Reports
+2023-09-07 10:08:02 INFO  Tcarts_Food_PreOrder:326 - Gst Report
+2023-09-07 10:08:04 INFO  Tcarts_Food_PreOrder:331 - Stock Report-Particular Dish
+2023-09-07 10:08:23 INFO  Tcarts_Food_PreOrder:366 - Stock Report-All Dishes
+2023-09-07 10:08:33 INFO  Tcarts_Food_PreOrder:389 - App Feedback
+2023-09-07 10:08:35 INFO  Tcarts_Food_PreOrder:394 - Tester
+2023-09-07 10:08:42 INFO  Tcarts_Food_PreOrder:403 - Developer
+2023-09-07 10:08:49 INFO  Tcarts_Food_PreOrder:417 - Logout
+2023-09-07 10:14:39 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 10:14:40 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 10:14:41 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 10:14:52 INFO  Tcarts_Food_PreOrder:70 - Sales-ReceiptList
+2023-09-07 10:15:03 INFO  Tcarts_Food_PreOrder:88 - Sales-OrderList
+2023-09-07 10:15:12 INFO  Tcarts_Food_PreOrder:101 - Sales-RefundHistories
+2023-09-07 10:15:22 INFO  Tcarts_Food_PreOrder:120 - Settings-Canteen
+2023-09-07 10:15:25 INFO  Tcarts_Food_PreOrder:127 - Add New Canteen
+2023-09-07 10:15:34 INFO  Tcarts_Food_PreOrder:144 - Search Canteen-Validate
+2023-09-07 10:15:37 INFO  Tcarts_Food_PreOrder:155 - Edit Canteen
+2023-09-07 10:15:44 INFO  Tcarts_Food_PreOrder:171 - Overschedule
+2023-09-07 10:16:08 INFO  Tcarts_Food_PreOrder:219 - View & Delete Canteen
+2023-09-07 10:16:15 INFO  Tcarts_Food_PreOrder:239 - Settings-Dishes
+2023-09-07 10:16:18 INFO  Tcarts_Food_PreOrder:246 - Add New Dish
+2023-09-07 10:16:30 INFO  Tcarts_Food_PreOrder:279 - Funcionality - Next & Previous Page
+2023-09-07 10:16:34 INFO  Tcarts_Food_PreOrder:288 - View & Delete Dish
+2023-09-07 10:16:42 INFO  Tcarts_Food_PreOrder:305 - Edit Dish
+2023-09-07 10:16:51 INFO  Tcarts_Food_PreOrder:325 - Reports
+2023-09-07 10:16:52 INFO  Tcarts_Food_PreOrder:330 - Gst Report
+2023-09-07 10:16:54 INFO  Tcarts_Food_PreOrder:335 - Stock Report-Particular Dish
+2023-09-07 10:17:13 INFO  Tcarts_Food_PreOrder:370 - Stock Report-All Dishes
+2023-09-07 10:17:23 INFO  Tcarts_Food_PreOrder:393 - App Feedback
+2023-09-07 10:17:25 INFO  Tcarts_Food_PreOrder:398 - Tester
+2023-09-07 10:17:32 INFO  Tcarts_Food_PreOrder:407 - Developer
+2023-09-07 10:17:38 INFO  Tcarts_Food_PreOrder:421 - Logout
+2023-09-07 10:33:24 INFO  Demo:23 - Browser Launch
+2023-09-07 10:33:26 INFO  Demo:31 - Login
+2023-09-07 10:33:26 INFO  Demo:42 - Reports-Sales Report
+2023-09-07 10:34:03 INFO  Demo:23 - Browser Launch
+2023-09-07 10:34:04 INFO  Demo:31 - Login
+2023-09-07 10:34:05 INFO  Demo:42 - Reports-Sales Report
+2023-09-07 10:36:56 INFO  Demo:23 - Browser Launch
+2023-09-07 10:36:57 INFO  Demo:31 - Login
+2023-09-07 10:36:57 INFO  Demo:42 - Reports-Sales Report
+2023-09-07 10:37:44 INFO  Demo:23 - Browser Launch
+2023-09-07 10:37:45 INFO  Demo:31 - Login
+2023-09-07 10:37:45 INFO  Demo:42 - Reports-Sales Report
+2023-09-07 10:41:41 INFO  Demo:23 - Browser Launch
+2023-09-07 10:41:46 INFO  Demo:31 - Login
+2023-09-07 10:41:46 INFO  Demo:41 - Reports-Sales Report
+2023-09-07 10:42:40 INFO  Demo:23 - Browser Launch
+2023-09-07 10:42:46 INFO  Demo:31 - Login
+2023-09-07 10:42:46 INFO  Demo:41 - Reports-Sales Report
+2023-09-07 10:44:32 INFO  Demo:24 - Browser Launch
+2023-09-07 10:44:37 INFO  Demo:32 - Login
+2023-09-07 10:44:38 INFO  Demo:42 - Reports-Sales Report
+2023-09-07 10:45:46 INFO  Demo:24 - Browser Launch
+2023-09-07 10:45:52 INFO  Demo:32 - Login
+2023-09-07 10:45:52 INFO  Demo:42 - Reports-Sales Report
+2023-09-07 10:59:29 INFO  Demo:26 - Browser Launch
+2023-09-07 10:59:31 INFO  Demo:34 - Login
+2023-09-07 10:59:31 INFO  Demo:77 - Reports-Gst Report
+2023-09-07 11:00:42 INFO  Demo:26 - Browser Launch
+2023-09-07 11:00:43 INFO  Demo:34 - Login
+2023-09-07 11:00:43 INFO  Demo:77 - Reports-Gst Report
+2023-09-07 11:02:21 INFO  Demo:26 - Browser Launch
+2023-09-07 11:02:22 INFO  Demo:34 - Login
+2023-09-07 11:02:23 INFO  Demo:77 - Reports-Gst Report
+2023-09-07 11:05:53 INFO  Demo:24 - Browser Launch
+2023-09-07 11:05:54 INFO  Demo:32 - Login
+2023-09-07 11:05:54 INFO  Demo:75 - Reports-Gst Report
+2023-09-07 11:06:51 INFO  Demo:24 - Browser Launch
+2023-09-07 11:06:52 INFO  Demo:32 - Login
+2023-09-07 11:06:52 INFO  Demo:75 - Reports-Gst Report
+2023-09-07 11:24:01 INFO  Demo:24 - Browser Launch
+2023-09-07 11:24:03 INFO  Demo:32 - Login
+2023-09-07 11:24:03 INFO  Demo:75 - Reports-Gst Report
+2023-09-07 11:31:01 INFO  Demo:25 - Browser Launch
+2023-09-07 11:31:03 INFO  Demo:33 - Login
+2023-09-07 11:32:00 INFO  Demo:25 - Browser Launch
+2023-09-07 11:32:02 INFO  Demo:33 - Login
+2023-09-07 11:33:17 INFO  Demo:25 - Browser Launch
+2023-09-07 11:33:19 INFO  Demo:33 - Login
+2023-09-07 11:33:57 INFO  Demo:25 - Browser Launch
+2023-09-07 11:33:58 INFO  Demo:33 - Login
+2023-09-07 11:34:33 INFO  Demo:25 - Browser Launch
+2023-09-07 11:34:34 INFO  Demo:33 - Login
+2023-09-07 11:38:07 INFO  Demo:25 - Browser Launch
+2023-09-07 11:38:08 INFO  Demo:33 - Login
+2023-09-07 12:09:49 INFO  Demo:25 - Browser Launch
+2023-09-07 12:09:51 INFO  Demo:33 - Login
+2023-09-07 12:09:51 INFO  Demo:76 - Reports-Gst Report
+2023-09-07 12:11:58 INFO  Demo:25 - Browser Launch
+2023-09-07 12:12:00 INFO  Demo:33 - Login
+2023-09-07 12:12:00 INFO  Demo:76 - Reports-Gst Report
+2023-09-07 12:13:09 INFO  Demo:25 - Browser Launch
+2023-09-07 12:13:10 INFO  Demo:33 - Login
+2023-09-07 12:13:10 INFO  Demo:76 - Reports-Gst Report
+2023-09-07 12:13:38 INFO  Demo:25 - Browser Launch
+2023-09-07 12:13:39 INFO  Demo:33 - Login
+2023-09-07 12:13:39 INFO  Demo:76 - Reports-Gst Report
+2023-09-07 12:17:10 INFO  Demo:25 - Browser Launch
+2023-09-07 12:17:11 INFO  Demo:33 - Login
+2023-09-07 12:17:11 INFO  Demo:76 - Reports-Gst Report
+2023-09-07 12:32:30 INFO  Demo:25 - Browser Launch
+2023-09-07 12:32:32 INFO  Demo:33 - Login
+2023-09-07 12:32:32 INFO  Demo:92 - Settings-Gst
+2023-09-07 12:33:26 INFO  Demo:25 - Browser Launch
+2023-09-07 12:33:27 INFO  Demo:33 - Login
+2023-09-07 12:33:27 INFO  Demo:92 - Settings-Gst
+2023-09-07 12:34:15 INFO  Demo:25 - Browser Launch
+2023-09-07 12:34:16 INFO  Demo:33 - Login
+2023-09-07 12:34:16 INFO  Demo:92 - Settings-Gst
+2023-09-07 12:35:37 INFO  Demo:25 - Browser Launch
+2023-09-07 12:35:39 INFO  Demo:33 - Login
+2023-09-07 12:35:39 INFO  Demo:92 - Settings-Gst
+2023-09-07 12:46:02 INFO  Demo:25 - Browser Launch
+2023-09-07 12:46:04 INFO  Demo:33 - Login
+2023-09-07 12:46:04 INFO  Demo:114 - Settings-Timeframes
+2023-09-07 12:46:58 INFO  Demo:25 - Browser Launch
+2023-09-07 12:46:59 INFO  Demo:33 - Login
+2023-09-07 12:46:59 INFO  Demo:114 - Settings-Timeframes
+2023-09-07 12:50:10 INFO  Demo:25 - Browser Launch
+2023-09-07 12:50:11 INFO  Demo:33 - Login
+2023-09-07 12:50:12 INFO  Demo:114 - Settings-Timeframes
+2023-09-07 12:59:37 INFO  Demo:26 - Browser Launch
+2023-09-07 12:59:38 INFO  Demo:34 - Login
+2023-09-07 12:59:38 INFO  Demo:115 - Settings-Timeframes
+2023-09-07 13:00:40 INFO  Demo:26 - Browser Launch
+2023-09-07 13:00:41 INFO  Demo:34 - Login
+2023-09-07 13:00:41 INFO  Demo:115 - Settings-Timeframes
+2023-09-07 14:27:22 INFO  Demo:28 - Browser Launch
+2023-09-07 14:27:24 INFO  Demo:36 - Login
+2023-09-07 14:27:24 INFO  Demo:77 - Users-Guest
+2023-09-07 14:28:02 INFO  Demo:28 - Browser Launch
+2023-09-07 14:28:03 INFO  Demo:36 - Login
+2023-09-07 14:28:03 INFO  Demo:77 - Users-Guest
+2023-09-07 14:28:31 INFO  Demo:28 - Browser Launch
+2023-09-07 14:28:33 INFO  Demo:36 - Login
+2023-09-07 14:28:33 INFO  Demo:77 - Users-Guest
+2023-09-07 14:30:01 INFO  Demo:28 - Browser Launch
+2023-09-07 14:30:02 INFO  Demo:36 - Login
+2023-09-07 14:30:02 INFO  Demo:50 - Users-Student
+2023-09-07 14:42:15 INFO  Demo:24 - Browser Launch
+2023-09-07 14:42:17 INFO  Demo:32 - Login
+2023-09-07 14:42:17 INFO  Demo:46 - Users-Student
+2023-09-07 14:42:20 INFO  Demo:53 - Student-Create User
+2023-09-07 14:42:26 INFO  Demo:71 - Edit & Search
+2023-09-07 14:44:08 INFO  Demo:24 - Browser Launch
+2023-09-07 14:44:09 INFO  Demo:32 - Login
+2023-09-07 14:44:09 INFO  Demo:46 - Users-Student
+2023-09-07 14:44:12 INFO  Demo:53 - Student-Create User
+2023-09-07 14:47:00 INFO  Demo:24 - Browser Launch
+2023-09-07 14:47:02 INFO  Demo:32 - Login
+2023-09-07 14:47:02 INFO  Demo:46 - Users-Student
+2023-09-07 14:47:05 INFO  Demo:53 - Student-Create User
+2023-09-07 14:47:11 INFO  Demo:71 - Edit & Search
+2023-09-07 14:50:23 INFO  Demo:24 - Browser Launch
+2023-09-07 14:50:25 INFO  Demo:32 - Login
+2023-09-07 14:50:25 INFO  Demo:46 - Users-Student
+2023-09-07 14:50:28 INFO  Demo:53 - Student-Create User
+2023-09-07 14:53:01 INFO  Demo:24 - Browser Launch
+2023-09-07 14:53:02 INFO  Demo:32 - Login
+2023-09-07 14:53:02 INFO  Demo:46 - Users-Student
+2023-09-07 14:53:06 INFO  Demo:53 - Student-Create User
+2023-09-07 14:53:10 INFO  Demo:72 - Edit & Search
+2023-09-07 14:53:17 INFO  Demo:90 - View & Delete Canteen
+2023-09-07 14:57:39 INFO  Demo:24 - Browser Launch
+2023-09-07 14:57:40 INFO  Demo:32 - Login
+2023-09-07 14:57:40 INFO  Demo:46 - Users-Student
+2023-09-07 14:57:44 INFO  Demo:53 - Student-Create User
+2023-09-07 14:57:51 INFO  Demo:72 - Edit & Search
+2023-09-07 14:59:13 INFO  Demo:24 - Browser Launch
+2023-09-07 14:59:14 INFO  Demo:32 - Login
+2023-09-07 14:59:14 INFO  Demo:46 - Users-Student
+2023-09-07 14:59:18 INFO  Demo:53 - Student-Create User
+2023-09-07 14:59:22 INFO  Demo:72 - Edit & Search
+2023-09-07 14:59:29 INFO  Demo:90 - View & Delete Canteen
+2023-09-07 15:51:30 INFO  Users:24 - Browser Launch
+2023-09-07 15:51:31 INFO  Users:32 - Login
+2023-09-07 15:51:31 INFO  Users:113 - Users-Staff
+2023-09-07 15:51:32 INFO  Users:118 - Create-Staff
+2023-09-07 15:52:10 INFO  Users:24 - Browser Launch
+2023-09-07 15:52:11 INFO  Users:32 - Login
+2023-09-07 15:52:11 INFO  Users:113 - Users-Staff
+2023-09-07 15:52:12 INFO  Users:118 - Create-Staff
+2023-09-07 15:52:40 INFO  Users:24 - Browser Launch
+2023-09-07 15:52:41 INFO  Users:32 - Login
+2023-09-07 15:52:42 INFO  Users:113 - Users-Staff
+2023-09-07 15:52:43 INFO  Users:119 - Create-Staff
+2023-09-07 15:54:09 INFO  Users:24 - Browser Launch
+2023-09-07 15:54:11 INFO  Users:32 - Login
+2023-09-07 15:54:11 INFO  Users:113 - Users-Staff
+2023-09-07 15:54:13 INFO  Users:119 - Create-Staff
+2023-09-07 15:54:22 INFO  Users:137 - Edit & Search
+2023-09-07 15:54:29 INFO  Users:155 - View & Delete Canteen
+2023-09-07 15:56:51 INFO  Users:24 - Browser Launch
+2023-09-07 15:56:52 INFO  Users:32 - Login
+2023-09-07 15:56:52 INFO  Users:113 - Users-Staff
+2023-09-07 15:56:54 INFO  Users:119 - Create-Staff
+2023-09-07 15:57:03 INFO  Users:137 - Edit & Search
+2023-09-07 15:57:10 INFO  Users:155 - View & Delete Canteen
+2023-09-07 16:32:35 INFO  Users:25 - Browser Launch
+2023-09-07 16:32:37 INFO  Users:33 - Login
+2023-09-07 16:32:37 INFO  Users:179 - Users-Canteen Staff
+2023-09-07 16:32:41 INFO  Users:186 - Create-Canteen Staff
+2023-09-07 16:32:50 INFO  Users:206 - Edit & Search
+2023-09-07 16:32:57 INFO  Users:224 - View & Delete Canteen
+2023-09-07 16:35:53 INFO  Users:25 - Browser Launch
+2023-09-07 16:35:55 INFO  Users:33 - Login
+2023-09-07 16:35:55 INFO  Users:179 - Users-Canteen Staff
+2023-09-07 16:35:58 INFO  Users:206 - Edit & Search
+2023-09-07 16:36:43 INFO  Users:25 - Browser Launch
+2023-09-07 16:36:44 INFO  Users:33 - Login
+2023-09-07 16:36:45 INFO  Users:179 - Users-Canteen Staff
+2023-09-07 16:36:48 INFO  Users:207 - Edit & Search
+2023-09-07 16:36:55 INFO  Users:224 - View & Delete Canteen
+2023-09-07 16:44:41 INFO  Task:24 - Browser Launch
+2023-09-07 16:44:43 INFO  Task:32 - Login
+2023-09-07 16:44:43 INFO  Task:42 - Reports-Sales Report
+2023-09-07 16:45:02 INFO  Task:75 - Reports-Gst Report
+2023-09-07 16:45:10 INFO  Task:91 - Settings-Gst
+2023-09-07 16:51:43 INFO  Task:23 - Browser Launch
+2023-09-07 16:51:44 INFO  Task:31 - Login
+2023-09-07 16:51:45 INFO  Task:102 - Settings-Gst
+2023-09-07 16:51:57 INFO  Task:82 - Reports-Gst Report
+2023-09-07 16:52:05 INFO  Task:45 - Reports-Sales Report
+2023-09-07 16:57:20 INFO  Task:25 - Browser Launch
+2023-09-07 16:57:21 INFO  Task:33 - Login
+2023-09-07 16:57:21 INFO  Task:84 - Reports-Gst Report
+2023-09-07 16:57:30 INFO  Task:47 - Reports-Sales Report
+2023-09-07 16:59:16 INFO  Task:25 - Browser Launch
+2023-09-07 16:59:18 INFO  Task:33 - Login
+2023-09-07 16:59:18 INFO  Task:104 - Settings-Gst
+2023-09-07 16:59:30 INFO  Task:84 - Reports-Gst Report
+2023-09-07 16:59:38 INFO  Task:47 - Reports-Sales Report
+2023-09-07 17:01:40 INFO  Task:25 - Browser Launch
+2023-09-07 17:01:42 INFO  Task:33 - Login
+2023-09-07 17:01:42 INFO  Task:84 - Reports-Gst Report
+2023-09-07 17:01:51 INFO  Task:47 - Reports-Sales Report
+2023-09-07 17:09:23 INFO  Task:25 - Browser Launch
+2023-09-07 17:09:25 INFO  Task:33 - Login
+2023-09-07 17:09:25 INFO  Task:84 - Reports-Gst Report
+2023-09-07 17:09:33 INFO  Task:47 - Reports-Sales Report
+2023-09-07 17:21:12 INFO  Task:24 - Browser Launch
+2023-09-07 17:21:13 INFO  Task:32 - Login
+2023-09-07 17:21:13 INFO  Task:103 - Settings-Gst
+2023-09-07 17:21:26 INFO  Task:83 - Reports-Gst Report
+2023-09-07 17:21:34 INFO  Task:46 - Reports-Sales Report
+2023-09-07 17:22:29 INFO  Task:24 - Browser Launch
+2023-09-07 17:22:30 INFO  Task:32 - Login
+2023-09-07 17:22:30 INFO  Task:103 - Settings-Gst
+2023-09-07 17:22:42 INFO  Task:83 - Reports-Gst Report
+2023-09-07 17:22:50 INFO  Task:46 - Reports-Sales Report
+2023-09-07 17:24:54 INFO  Task:25 - Browser Launch
+2023-09-07 17:24:55 INFO  Task:33 - Login
+2023-09-07 17:24:56 INFO  Task:84 - Reports-Gst Report
+2023-09-07 17:25:04 INFO  Task:47 - Reports-Sales Report
+2023-09-07 17:28:47 INFO  Task:23 - Browser Launch
+2023-09-07 17:28:49 INFO  Task:31 - Login
+2023-09-07 17:28:49 INFO  Task:101 - Settings-Gst
+2023-09-07 17:29:01 INFO  Task:82 - Reports-Gst Report
+2023-09-07 17:29:09 INFO  Task:45 - Reports-Sales Report
+2023-09-07 18:21:36 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 18:21:36 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 18:21:38 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 18:21:38 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 18:21:38 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 18:21:38 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 18:21:40 INFO  Tcarts_Food_PreOrder:70 - Sales-ReceiptList
+2023-09-07 18:21:40 INFO  Tcarts_Food_PreOrder:120 - Settings-Canteen
+2023-09-07 18:21:40 INFO  Tcarts_Food_PreOrder:239 - Settings-Dishes
+2023-09-07 18:21:40 INFO  Tcarts_Food_PreOrder:330 - Reports
+2023-09-07 18:21:40 INFO  Tcarts_Food_PreOrder:398 - App Feedback
+2023-09-07 18:21:40 INFO  Tcarts_Food_PreOrder:426 - Logout
+2023-09-07 18:21:49 INFO  Tcarts_Food_PreOrder:70 - Sales-ReceiptList
+2023-09-07 18:22:01 INFO  Tcarts_Food_PreOrder:88 - Sales-OrderList
+2023-09-07 18:22:09 INFO  Tcarts_Food_PreOrder:101 - Sales-RefundHistories
+2023-09-07 18:22:20 INFO  Tcarts_Food_PreOrder:120 - Settings-Canteen
+2023-09-07 18:22:23 INFO  Tcarts_Food_PreOrder:127 - Add New Canteen
+2023-09-07 18:22:31 INFO  Tcarts_Food_PreOrder:144 - Search Canteen-Validate
+2023-09-07 18:22:34 INFO  Tcarts_Food_PreOrder:155 - Edit Canteen
+2023-09-07 18:22:42 INFO  Tcarts_Food_PreOrder:171 - Overschedule
+2023-09-07 18:23:05 INFO  Tcarts_Food_PreOrder:219 - View & Delete Canteen
+2023-09-07 18:23:13 INFO  Tcarts_Food_PreOrder:239 - Settings-Dishes
+2023-09-07 18:23:16 INFO  Tcarts_Food_PreOrder:246 - Add New Dish
+2023-09-07 18:23:27 INFO  Tcarts_Food_PreOrder:279 - Funcionality - Next & Previous Page
+2023-09-07 18:23:32 INFO  Tcarts_Food_PreOrder:288 - Edit Dish
+2023-09-07 18:24:12 INFO  Tcarts_Food_PreOrder:330 - Reports
+2023-09-07 18:24:13 INFO  Tcarts_Food_PreOrder:335 - Gst Report
+2023-09-07 18:24:15 INFO  Tcarts_Food_PreOrder:340 - Stock Report-Particular Dish
+2023-09-07 18:24:34 INFO  Tcarts_Food_PreOrder:375 - Stock Report-All Dishes
+2023-09-07 18:24:44 INFO  Tcarts_Food_PreOrder:398 - App Feedback
+2023-09-07 18:24:46 INFO  Tcarts_Food_PreOrder:403 - Tester
+2023-09-07 18:24:53 INFO  Tcarts_Food_PreOrder:412 - Developer
+2023-09-07 18:25:00 INFO  Tcarts_Food_PreOrder:426 - Logout
+2023-09-07 18:25:40 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 18:25:41 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 18:25:41 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 18:25:52 INFO  Tcarts_Food_PreOrder:70 - Sales-ReceiptList
+2023-09-07 18:26:04 INFO  Tcarts_Food_PreOrder:88 - Sales-OrderList
+2023-09-07 18:26:13 INFO  Tcarts_Food_PreOrder:101 - Sales-RefundHistories
+2023-09-07 18:26:23 INFO  Tcarts_Food_PreOrder:120 - Settings-Canteen
+2023-09-07 18:26:26 INFO  Tcarts_Food_PreOrder:127 - Add New Canteen
+2023-09-07 18:26:34 INFO  Tcarts_Food_PreOrder:144 - Search Canteen-Validate
+2023-09-07 18:26:38 INFO  Tcarts_Food_PreOrder:155 - Edit Canteen
+2023-09-07 18:26:45 INFO  Tcarts_Food_PreOrder:171 - Overschedule
+2023-09-07 18:27:09 INFO  Tcarts_Food_PreOrder:219 - View & Delete Canteen
+2023-09-07 18:27:16 INFO  Tcarts_Food_PreOrder:239 - Settings-Dishes
+2023-09-07 18:27:19 INFO  Tcarts_Food_PreOrder:246 - Add New Dish
+2023-09-07 18:27:59 INFO  Tcarts_Food_PreOrder:329 - Reports
+2023-09-07 18:28:01 INFO  Tcarts_Food_PreOrder:334 - Gst Report
+2023-09-07 18:28:02 INFO  Tcarts_Food_PreOrder:339 - Stock Report-Particular Dish
+2023-09-07 18:28:20 INFO  Tcarts_Food_PreOrder:25 - Browser Launch
+2023-09-07 18:28:21 INFO  Tcarts_Food_PreOrder:374 - Stock Report-All Dishes
+2023-09-07 18:28:21 INFO  Tcarts_Food_PreOrder:33 - Login
+2023-09-07 18:28:22 INFO  Tcarts_Food_PreOrder:47 - Dashboard
+2023-09-07 18:28:31 INFO  Tcarts_Food_PreOrder:397 - App Feedback
+2023-09-07 18:28:33 INFO  Tcarts_Food_PreOrder:70 - Sales-ReceiptList
+2023-09-07 18:28:33 INFO  Tcarts_Food_PreOrder:402 - Tester
+2023-09-07 18:28:40 INFO  Tcarts_Food_PreOrder:411 - Developer
+2023-09-07 18:28:45 INFO  Tcarts_Food_PreOrder:88 - Sales-OrderList
+2023-09-07 18:28:46 INFO  Tcarts_Food_PreOrder:425 - Logout
+2023-09-07 18:28:53 INFO  Tcarts_Food_PreOrder:101 - Sales-RefundHistories
+2023-09-07 18:29:03 INFO  Tcarts_Food_PreOrder:120 - Settings-Canteen
+2023-09-07 18:29:06 INFO  Tcarts_Food_PreOrder:127 - Add New Canteen
+2023-09-07 18:29:15 INFO  Tcarts_Food_PreOrder:144 - Search Canteen-Validate
+2023-09-07 18:29:18 INFO  Tcarts_Food_PreOrder:155 - Edit Canteen
+2023-09-07 18:29:25 INFO  Tcarts_Food_PreOrder:171 - Overschedule
+2023-09-07 18:29:49 INFO  Tcarts_Food_PreOrder:219 - View & Delete Canteen
+2023-09-07 18:29:57 INFO  Tcarts_Food_PreOrder:239 - Settings-Dishes
+2023-09-07 18:30:00 INFO  Tcarts_Food_PreOrder:246 - Add New Dish
+2023-09-07 18:30:11 INFO  Tcarts_Food_PreOrder:279 - Funcionality - Next & Previous Page
+2023-09-07 18:30:16 INFO  Tcarts_Food_PreOrder:288 - Edit Dish
+2023-09-07 18:30:26 INFO  Tcarts_Food_PreOrder:307 - View & Delete Dish
+2023-09-07 18:30:34 INFO  Tcarts_Food_PreOrder:329 - Reports
+2023-09-07 18:30:35 INFO  Tcarts_Food_PreOrder:334 - Gst Report
+2023-09-07 18:30:37 INFO  Tcarts_Food_PreOrder:339 - Stock Report-Particular Dish
+2023-09-07 18:30:55 INFO  Tcarts_Food_PreOrder:374 - Stock Report-All Dishes
+2023-09-07 18:31:06 INFO  Tcarts_Food_PreOrder:397 - App Feedback
+2023-09-07 18:31:08 INFO  Tcarts_Food_PreOrder:402 - Tester
+2023-09-07 18:31:14 INFO  Tcarts_Food_PreOrder:411 - Developer
+2023-09-07 18:31:21 INFO  Tcarts_Food_PreOrder:425 - Logout
+2023-09-07 18:35:32 INFO  Users:25 - Browser Launch
+2023-09-07 18:35:34 INFO  Users:33 - Login
+2023-09-07 18:35:34 INFO  Users:47 - Users-Student
+2023-09-07 18:35:37 INFO  Users:54 - Student-Create User
+2023-09-07 18:35:45 INFO  Users:76 - Edit & Search
+2023-09-07 18:35:52 INFO  Users:94 - View & Delete Canteen
+2023-09-07 18:36:01 INFO  Users:117 - Users-Staff
+2023-09-07 18:36:03 INFO  Users:123 - Staff-Create User
+2023-09-07 18:36:12 INFO  Users:141 - Edit & Search
+2023-09-07 18:36:19 INFO  Users:159 - View & Delete Canteen
+2023-09-07 18:36:28 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 18:36:31 INFO  Users:210 - Edit & Search
+2023-09-07 18:36:38 INFO  Users:227 - View & Delete Canteen
+2023-09-07 18:36:49 INFO  Users:251 - Users-Guest
+2023-09-07 18:37:44 INFO  Users:25 - Browser Launch
+2023-09-07 18:37:45 INFO  Users:33 - Login
+2023-09-07 18:37:45 INFO  Users:47 - Users-Student
+2023-09-07 18:37:48 INFO  Users:54 - Student-Create User
+2023-09-07 18:37:56 INFO  Users:76 - Edit & Search
+2023-09-07 18:38:26 INFO  Users:117 - Users-Staff
+2023-09-07 18:38:27 INFO  Users:123 - Staff-Create User
+2023-09-07 18:38:36 INFO  Users:141 - Edit & Search
+2023-09-07 18:38:54 INFO  Users:25 - Browser Launch
+2023-09-07 18:38:55 INFO  Users:33 - Login
+2023-09-07 18:38:55 INFO  Users:47 - Users-Student
+2023-09-07 18:38:59 INFO  Users:54 - Student-Create User
+2023-09-07 18:39:06 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 18:39:09 INFO  Users:210 - Edit & Search
+2023-09-07 18:39:09 INFO  Users:76 - Edit & Search
+2023-09-07 18:39:39 INFO  Users:117 - Users-Staff
+2023-09-07 18:39:41 INFO  Users:251 - Users-Guest
+2023-09-07 18:40:09 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 18:40:39 INFO  Users:251 - Users-Guest
+2023-09-07 18:47:39 INFO  Users:25 - Browser Launch
+2023-09-07 18:47:41 INFO  Users:33 - Login
+2023-09-07 18:47:41 INFO  Users:47 - Users-Student
+2023-09-07 18:47:44 INFO  Users:54 - Student-Create User
+2023-09-07 18:47:55 INFO  Users:76 - Edit & Search
+2023-09-07 18:48:25 INFO  Users:117 - Users-Staff
+2023-09-07 18:48:55 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 18:49:25 INFO  Users:251 - Users-Guest
+2023-09-07 18:52:51 INFO  Users:25 - Browser Launch
+2023-09-07 18:52:53 INFO  Users:33 - Login
+2023-09-07 18:52:53 INFO  Users:47 - Users-Student
+2023-09-07 18:52:56 INFO  Users:54 - Student-Create User
+2023-09-07 18:53:07 INFO  Users:76 - Edit & Search
+2023-09-07 18:53:37 INFO  Users:117 - Users-Staff
+2023-09-07 18:54:07 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 18:54:09 INFO  Users:25 - Browser Launch
+2023-09-07 18:54:10 INFO  Users:33 - Login
+2023-09-07 18:54:10 INFO  Users:47 - Users-Student
+2023-09-07 18:54:13 INFO  Users:54 - Student-Create User
+2023-09-07 18:54:21 INFO  Users:76 - Edit & Search
+2023-09-07 18:54:28 INFO  Users:94 - View & Delete Canteen
+2023-09-07 18:54:37 INFO  Users:251 - Users-Guest
+2023-09-07 18:54:37 INFO  Users:117 - Users-Staff
+2023-09-07 18:54:39 INFO  Users:123 - Staff-Create User
+2023-09-07 18:54:48 INFO  Users:141 - Edit & Search
+2023-09-07 18:55:18 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 18:55:21 INFO  Users:210 - Edit & Search
+2023-09-07 18:55:52 INFO  Users:251 - Users-Guest
+2023-09-07 18:56:10 INFO  Users:25 - Browser Launch
+2023-09-07 18:56:11 INFO  Users:33 - Login
+2023-09-07 18:56:12 INFO  Users:47 - Users-Student
+2023-09-07 18:56:15 INFO  Users:54 - Student-Create User
+2023-09-07 18:56:22 INFO  Users:76 - Edit & Search
+2023-09-07 18:56:52 INFO  Users:117 - Users-Staff
+2023-09-07 18:56:54 INFO  Users:123 - Staff-Create User
+2023-09-07 18:56:58 INFO  Users:25 - Browser Launch
+2023-09-07 18:56:59 INFO  Users:33 - Login
+2023-09-07 18:57:00 INFO  Users:47 - Users-Student
+2023-09-07 18:57:03 INFO  Users:141 - Edit & Search
+2023-09-07 18:57:03 INFO  Users:54 - Student-Create User
+2023-09-07 18:57:10 INFO  Users:159 - View & Delete Canteen
+2023-09-07 18:57:10 INFO  Users:76 - Edit & Search
+2023-09-07 18:57:18 INFO  Users:94 - View & Delete Canteen
+2023-09-07 18:57:19 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 18:57:22 INFO  Users:210 - Edit & Search
+2023-09-07 18:57:27 INFO  Users:117 - Users-Staff
+2023-09-07 18:57:28 INFO  Users:123 - Staff-Create User
+2023-09-07 18:57:37 INFO  Users:141 - Edit & Search
+2023-09-07 18:57:44 INFO  Users:159 - View & Delete Canteen
+2023-09-07 18:57:53 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 18:57:54 INFO  Users:251 - Users-Guest
+2023-09-07 18:57:57 INFO  Users:210 - Edit & Search
+2023-09-07 18:58:28 INFO  Users:251 - Users-Guest
+2023-09-07 18:58:47 INFO  Users:25 - Browser Launch
+2023-09-07 18:58:48 INFO  Users:33 - Login
+2023-09-07 18:58:48 INFO  Users:47 - Users-Student
+2023-09-07 18:58:51 INFO  Users:54 - Student-Create User
+2023-09-07 18:58:59 INFO  Users:76 - Edit & Search
+2023-09-07 18:59:05 INFO  Users:117 - Users-Staff
+2023-09-07 18:59:05 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 18:59:05 INFO  Users:251 - Users-Guest
+2023-09-07 18:59:43 INFO  Users:25 - Browser Launch
+2023-09-07 18:59:44 INFO  Users:33 - Login
+2023-09-07 18:59:44 INFO  Users:47 - Users-Student
+2023-09-07 18:59:48 INFO  Users:54 - Student-Create User
+2023-09-07 18:59:59 INFO  Users:76 - Edit & Search
+2023-09-07 19:00:14 INFO  Users:117 - Users-Staff
+2023-09-07 19:00:14 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:00:14 INFO  Users:251 - Users-Guest
+2023-09-07 19:00:34 INFO  Users:25 - Browser Launch
+2023-09-07 19:00:35 INFO  Users:33 - Login
+2023-09-07 19:00:35 INFO  Users:47 - Users-Student
+2023-09-07 19:00:39 INFO  Users:54 - Student-Create User
+2023-09-07 19:00:50 INFO  Users:76 - Edit & Search
+2023-09-07 19:00:57 INFO  Users:117 - Users-Staff
+2023-09-07 19:00:57 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:00:57 INFO  Users:251 - Users-Guest
+2023-09-07 19:01:16 INFO  Users:25 - Browser Launch
+2023-09-07 19:01:17 INFO  Users:33 - Login
+2023-09-07 19:01:17 INFO  Users:47 - Users-Student
+2023-09-07 19:01:20 INFO  Users:54 - Student-Create User
+2023-09-07 19:01:28 INFO  Users:76 - Edit & Search
+2023-09-07 19:01:35 INFO  Users:94 - View & Delete Canteen
+2023-09-07 19:01:44 INFO  Users:117 - Users-Staff
+2023-09-07 19:01:46 INFO  Users:123 - Staff-Create User
+2023-09-07 19:01:55 INFO  Users:141 - Edit & Search
+2023-09-07 19:02:02 INFO  Users:159 - View & Delete Canteen
+2023-09-07 19:02:11 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:02:14 INFO  Users:210 - Edit & Search
+2023-09-07 19:02:21 INFO  Users:227 - View & Delete Canteen
+2023-09-07 19:02:30 INFO  Users:251 - Users-Guest
+2023-09-07 19:03:25 INFO  Users:25 - Browser Launch
+2023-09-07 19:03:26 INFO  Users:33 - Login
+2023-09-07 19:03:27 INFO  Users:47 - Users-Student
+2023-09-07 19:03:30 INFO  Users:54 - Student-Create User
+2023-09-07 19:03:37 INFO  Users:76 - Edit & Search
+2023-09-07 19:03:57 INFO  Users:25 - Browser Launch
+2023-09-07 19:03:59 INFO  Users:33 - Login
+2023-09-07 19:03:59 INFO  Users:47 - Users-Student
+2023-09-07 19:04:02 INFO  Users:54 - Student-Create User
+2023-09-07 19:04:07 INFO  Users:117 - Users-Staff
+2023-09-07 19:04:09 INFO  Users:123 - Staff-Create User
+2023-09-07 19:04:10 INFO  Users:76 - Edit & Search
+2023-09-07 19:04:18 INFO  Users:141 - Edit & Search
+2023-09-07 19:04:25 INFO  Users:159 - View & Delete Canteen
+2023-09-07 19:04:34 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:04:35 INFO  Users:25 - Browser Launch
+2023-09-07 19:04:35 INFO  Users:33 - Login
+2023-09-07 19:04:36 INFO  Users:47 - Users-Student
+2023-09-07 19:04:37 INFO  Users:210 - Edit & Search
+2023-09-07 19:04:39 INFO  Users:54 - Student-Create User
+2023-09-07 19:04:40 INFO  Users:117 - Users-Staff
+2023-09-07 19:04:46 INFO  Users:76 - Edit & Search
+2023-09-07 19:04:54 INFO  Users:94 - View & Delete Canteen
+2023-09-07 19:05:03 INFO  Users:117 - Users-Staff
+2023-09-07 19:05:05 INFO  Users:123 - Staff-Create User
+2023-09-07 19:05:10 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:05:12 INFO  Users:251 - Users-Guest
+2023-09-07 19:05:13 INFO  Users:141 - Edit & Search
+2023-09-07 19:05:21 INFO  Users:159 - View & Delete Canteen
+2023-09-07 19:05:30 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:05:33 INFO  Users:210 - Edit & Search
+2023-09-07 19:05:41 INFO  Users:251 - Users-Guest
+2023-09-07 19:06:08 INFO  Users:251 - Users-Guest
+2023-09-07 19:06:35 INFO  Users:25 - Browser Launch
+2023-09-07 19:06:36 INFO  Users:33 - Login
+2023-09-07 19:06:37 INFO  Users:47 - Users-Student
+2023-09-07 19:06:40 INFO  Users:54 - Student-Create User
+2023-09-07 19:06:47 INFO  Users:76 - Edit & Search
+2023-09-07 19:07:17 INFO  Users:117 - Users-Staff
+2023-09-07 19:07:17 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:07:17 INFO  Users:251 - Users-Guest
+2023-09-07 19:07:19 INFO  Users:25 - Browser Launch
+2023-09-07 19:07:20 INFO  Users:33 - Login
+2023-09-07 19:07:20 INFO  Users:47 - Users-Student
+2023-09-07 19:07:24 INFO  Users:54 - Student-Create User
+2023-09-07 19:07:31 INFO  Users:76 - Edit & Search
+2023-09-07 19:07:38 INFO  Users:94 - View & Delete Canteen
+2023-09-07 19:07:48 INFO  Users:117 - Users-Staff
+2023-09-07 19:07:49 INFO  Users:123 - Staff-Create User
+2023-09-07 19:07:58 INFO  Users:141 - Edit & Search
+2023-09-07 19:08:05 INFO  Users:159 - View & Delete Canteen
+2023-09-07 19:08:14 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:08:17 INFO  Users:210 - Edit & Search
+2023-09-07 19:08:24 INFO  Users:227 - View & Delete Canteen
+2023-09-07 19:08:35 INFO  Users:251 - Users-Guest
+2023-09-07 19:18:28 INFO  Users:25 - Browser Launch
+2023-09-07 19:18:30 INFO  Users:33 - Login
+2023-09-07 19:18:30 INFO  Users:47 - Users-Student
+2023-09-07 19:18:33 INFO  Users:54 - Student-Create User
+2023-09-07 19:18:41 INFO  Users:76 - Edit & Search
+2023-09-07 19:19:11 INFO  Users:117 - Users-Staff
+2023-09-07 19:19:12 INFO  Users:123 - Staff-Create User
+2023-09-07 19:19:21 INFO  Users:141 - Edit & Search
+2023-09-07 19:19:29 INFO  Users:159 - View & Delete Canteen
+2023-09-07 19:19:38 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:19:41 INFO  Users:210 - Edit & Search
+2023-09-07 19:19:48 INFO  Users:227 - View & Delete Canteen
+2023-09-07 19:19:58 INFO  Users:251 - Users-Guest
+2023-09-07 19:21:02 INFO  Users:25 - Browser Launch
+2023-09-07 19:21:03 INFO  Users:33 - Login
+2023-09-07 19:21:04 INFO  Users:47 - Users-Student
+2023-09-07 19:21:07 INFO  Users:54 - Student-Create User
+2023-09-07 19:21:16 INFO  Users:76 - Edit & Search
+2023-09-07 19:21:31 INFO  Users:117 - Users-Staff
+2023-09-07 19:21:31 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:21:31 INFO  Users:251 - Users-Guest
+2023-09-07 19:21:53 INFO  Users:25 - Browser Launch
+2023-09-07 19:21:54 INFO  Users:33 - Login
+2023-09-07 19:21:55 INFO  Users:47 - Users-Student
+2023-09-07 19:21:58 INFO  Users:54 - Student-Create User
+2023-09-07 19:22:06 INFO  Users:76 - Edit & Search
+2023-09-07 19:22:09 INFO  Users:117 - Users-Staff
+2023-09-07 19:22:09 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:22:09 INFO  Users:251 - Users-Guest
+2023-09-07 19:23:32 INFO  Users:25 - Browser Launch
+2023-09-07 19:23:33 INFO  Users:33 - Login
+2023-09-07 19:23:34 INFO  Users:47 - Users-Student
+2023-09-07 19:23:37 INFO  Users:54 - Student-Create User
+2023-09-07 19:23:45 INFO  Users:76 - Edit & Search
+2023-09-07 19:23:53 INFO  Users:117 - Users-Staff
+2023-09-07 19:23:53 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:23:53 INFO  Users:251 - Users-Guest
+2023-09-07 19:25:28 INFO  Users:25 - Browser Launch
+2023-09-07 19:25:30 INFO  Users:33 - Login
+2023-09-07 19:25:30 INFO  Users:47 - Users-Student
+2023-09-07 19:25:34 INFO  Users:54 - Student-Create User
+2023-09-07 19:25:47 INFO  Users:76 - Edit & Search
+2023-09-07 19:26:17 INFO  Users:117 - Users-Staff
+2023-09-07 19:26:47 INFO  Users:182 - Users-Canteen Staff
+2023-09-07 19:27:17 INFO  Users:251 - Users-Guest
+2023-09-18 15:23:59 INFO  Tcarts_Food_PreOrder:27 - Browser Launch
+2023-09-18 15:24:01 INFO  Tcarts_Food_PreOrder:35 - Login
+2023-09-18 15:24:02 INFO  Tcarts_Food_PreOrder:49 - Dashboard
+2023-09-18 15:24:13 INFO  Tcarts_Food_PreOrder:72 - Sales-ReceiptList
+2023-09-18 15:24:25 INFO  Tcarts_Food_PreOrder:90 - Sales-OrderList
+2023-09-18 15:24:34 INFO  Tcarts_Food_PreOrder:103 - Sales-RefundHistories
+2023-09-18 15:24:44 INFO  Tcarts_Food_PreOrder:122 - Users-Student
+2023-09-18 15:24:47 INFO  Tcarts_Food_PreOrder:129 - Student-Create User
+2023-09-18 15:24:47 INFO  Tcarts_Food_PreOrder:192 - Users-Staff
+2023-09-18 15:24:49 INFO  Tcarts_Food_PreOrder:198 - Staff-Create User
+2023-09-18 15:24:58 INFO  Tcarts_Food_PreOrder:216 - Edit & Search
+2023-09-18 15:25:06 INFO  Tcarts_Food_PreOrder:234 - View & Delete Canteen
+2023-09-18 15:25:15 INFO  Tcarts_Food_PreOrder:257 - Users-Canteen Staff
+2023-09-18 15:25:18 INFO  Tcarts_Food_PreOrder:285 - Edit & Search
+2023-09-18 15:25:25 INFO  Tcarts_Food_PreOrder:302 - View & Delete Canteen
+2023-09-18 15:25:33 INFO  Tcarts_Food_PreOrder:326 - Users-Guest
+2023-09-18 15:25:41 INFO  Tcarts_Food_PreOrder:346 - Settings-Canteen
+2023-09-18 15:25:44 INFO  Tcarts_Food_PreOrder:353 - Add New Canteen
+2023-09-18 15:25:54 INFO  Tcarts_Food_PreOrder:370 - Search Canteen-Validate
+2023-09-18 15:25:57 INFO  Tcarts_Food_PreOrder:381 - Edit Canteen
+2023-09-18 15:26:04 INFO  Tcarts_Food_PreOrder:397 - Overschedule
+2023-09-18 15:26:29 INFO  Tcarts_Food_PreOrder:445 - View & Delete Canteen
+2023-09-18 15:26:36 INFO  Tcarts_Food_PreOrder:465 - Settings-Dishes
+2023-09-18 15:26:39 INFO  Tcarts_Food_PreOrder:472 - Add New Dish
+2023-09-18 15:26:52 INFO  Tcarts_Food_PreOrder:505 - Funcionality - Next & Previous Page
+2023-09-18 15:26:56 INFO  Tcarts_Food_PreOrder:514 - Edit Dish
+2023-09-18 15:27:07 INFO  Tcarts_Food_PreOrder:533 - View & Delete Dish
+2023-09-18 15:27:15 INFO  Tcarts_Food_PreOrder:555 - Settings-Gst
+2023-09-18 15:27:27 INFO  Tcarts_Food_PreOrder:581 - Reports
+2023-09-18 15:27:28 INFO  Tcarts_Food_PreOrder:586 - Gst Report
+2023-09-18 15:27:30 INFO  Tcarts_Food_PreOrder:591 - Stock Report-Particular Dish
+2023-09-18 15:27:48 INFO  Tcarts_Food_PreOrder:626 - Stock Report-All Dishes
+2023-09-18 15:27:59 INFO  Tcarts_Food_PreOrder:649 - Reports-Sales Report
+2023-09-18 15:28:18 INFO  Tcarts_Food_PreOrder:686 - Reports-Gst Report
+2023-09-18 15:28:27 INFO  Tcarts_Food_PreOrder:706 - App Feedback
+2023-09-18 15:28:28 INFO  Tcarts_Food_PreOrder:711 - Tester
+2023-09-18 15:28:35 INFO  Tcarts_Food_PreOrder:720 - Developer
+2023-09-18 15:28:42 INFO  Tcarts_Food_PreOrder:734 - Logout
